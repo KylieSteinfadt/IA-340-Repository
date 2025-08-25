@@ -1,5 +1,5 @@
 # IA-340-Repository
-Welcome to my IA 340 repository for lab assignments and progects
+Welcome to my IA 340 repository for lab assignments and projects
 
 ## Purpose
 This repository contains code, notes and other related course work to *IA 340: Data Mining, Modeling, and Knowledge Disovery in Databases* 
@@ -12,4 +12,5 @@ This repository contains code, notes and other related course work to *IA 340: D
 
 ## Contact
 **Name:** Kylie Steinfadt
+
 **Email:** Steinfkm@dukes.jmu.edu 
