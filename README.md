@@ -12,7 +12,7 @@ This repository contains code, notes and other related course work to *IA 340: D
 
 **Lab 1**: [Setting up JupyterLab and load data from S3 bucket](https://github.com/KylieSteinfadt/IA-340-Repository/blob/main/lab1.ipynb)
 
-## Contact
+## Contact for Academic Purposes Only
 **Name:** Kylie Steinfadt
 
 **Email:** Steinfkm@dukes.jmu.edu 
