@@ -11,6 +11,7 @@ This repository contains code, notes and other related course work to *IA 340: D
 - Project documentation
 
 **Lab 1**: [Setting up JupyterLab and load data from S3 bucket](https://github.com/KylieSteinfadt/IA-340-Repository/blob/main/lab1.ipynb)
+
 **Lab 2**:[Data Manipulation & Visualization in Python](https://github.com/KylieSteinfadt/IA-340-Repository/blob/test/lab2.ipynb)
 
 ## Contact for Academic Purposes Only
