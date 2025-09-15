@@ -14,6 +14,11 @@ This repository contains code, notes and other related course work to *IA 340: D
 
 **Lab 2**:[Data Manipulation & Visualization in Python](https://github.com/KylieSteinfadt/IA-340-Repository/blob/test/lab2.ipynb)
 
+**Lab 3**:[Set up RDS and Create ER
+Diagram](ia340.cjqyi48o892e.us-east-1.rds.amazonaws.com)
+
+**Lab 4**:[Collect Census Data with APIs](https://github.com/KylieSteinfadt/IA-340-Repository/tree/test)
+
 ## Contact for Academic Purposes Only
 **Name:** Kylie Steinfadt
 
