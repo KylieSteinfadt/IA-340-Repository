@@ -19,6 +19,9 @@ Diagram [Endpoint link in RDS: ia340.cjqyi48o892e.us-east-1.rds.amazonaws.com]
 
 **Lab 4**:[Collect Census Data with APIs](https://github.com/KylieSteinfadt/IA-340-Repository/blob/test/Collect_Census_Data.ipynb)
 
+**Lab 6**: [Query Data in Python with Generative AI](https://github.com/KylieSteinfadt/IA-340-Repository/blob/test/lab6.ipynb)
+
+
 ## Contact for Academic Purposes Only
 **Name:** Kylie Steinfadt
 
