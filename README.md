@@ -21,6 +21,8 @@ Diagram [Endpoint link in RDS: ia340.cjqyi48o892e.us-east-1.rds.amazonaws.com]
 
 **Lab 6**: [Query Data in Python with Generative AI](https://github.com/KylieSteinfadt/IA-340-Repository/blob/test/lab6.ipynb)
 
+**Mini Project**: [Data Exploration with Generative AI](https://github.com/KylieSteinfadt/IA-340-Repository/blob/test/Mini%20Project.ipynb)
+
 
 ## Contact for Academic Purposes Only
 **Name:** Kylie Steinfadt
