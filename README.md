@@ -23,6 +23,8 @@ Diagram [Endpoint link in RDS: ia340.cjqyi48o892e.us-east-1.rds.amazonaws.com]
 
 **Mini Project**: [Data Exploration with Generative AI](https://github.com/KylieSteinfadt/IA-340-Repository/blob/test/Mini%20Project.ipynb)
 
+**Lab 10**: [Retrieval-Augmented Generation](https://github.com/KylieSteinfadt/IA-340-Repository/blob/test/Exploring-Twitter-Data-with-Vector-Databases-and-RAG-Systems.ipynb)
+
 
 ## Contact for Academic Purposes Only
 **Name:** Kylie Steinfadt
