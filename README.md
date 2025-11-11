@@ -10,7 +10,23 @@ This repository contains code, notes and other related course work to *IA 340: D
 - Lab submissions
 - Project documentation
 
-## Contact
+**Lab 1**: [Setting up JupyterLab and load data from S3 bucket](https://github.com/KylieSteinfadt/IA-340-Repository/blob/main/lab1.ipynb)
+
+**Lab 2**:[Data Manipulation & Visualization in Python](https://github.com/KylieSteinfadt/IA-340-Repository/blob/test/lab2.ipynb)
+
+**Lab 3**:Set up RDS and Create ER
+Diagram [Endpoint link in RDS: ia340.cjqyi48o892e.us-east-1.rds.amazonaws.com]
+
+**Lab 4**:[Collect Census Data with APIs](https://github.com/KylieSteinfadt/IA-340-Repository/blob/test/Collect_Census_Data.ipynb)
+
+**Lab 6**: [Query Data in Python with Generative AI](https://github.com/KylieSteinfadt/IA-340-Repository/blob/test/lab6.ipynb)
+
+**Mini Project**: [Data Exploration with Generative AI](https://github.com/KylieSteinfadt/IA-340-Repository/blob/test/Mini%20Project.ipynb)
+
+**Lab 10**: [Retrieval-Augmented Generation](https://github.com/KylieSteinfadt/IA-340-Repository/blob/test/Exploring-Twitter-Data-with-Vector-Databases-and-RAG-Systems.ipynb)
+
+
+## Contact for Academic Purposes Only
 **Name:** Kylie Steinfadt
 
 **Email:** Steinfkm@dukes.jmu.edu 
