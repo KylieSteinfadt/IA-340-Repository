@@ -25,6 +25,7 @@ Diagram [Endpoint link in RDS: ia340.cjqyi48o892e.us-east-1.rds.amazonaws.com]
 
 **Lab 10**: [Retrieval-Augmented Generation](https://github.com/KylieSteinfadt/IA-340-Repository/blob/test/Exploring-Twitter-Data-with-Vector-Databases-and-RAG-Systems.ipynb)
 
+**Lab 11**: [Analyze Twitter Data with OpenAI](https://github.com/KylieSteinfadt/IA-340-Repository/blob/test/Analyze_Twitter_Data%20(1).ipynb)
 
 ## Contact for Academic Purposes Only
 **Name:** Kylie Steinfadt
